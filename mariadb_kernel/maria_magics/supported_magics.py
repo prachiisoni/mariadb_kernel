@@ -22,4 +22,5 @@ def get():
         "lsmagic": LSMagic,
         "delimiter": Delimiter,
         "load": Load,
+        "bash": Bash,
     }
